@@ -1,0 +1,156 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\materials
+Loading C:\GabeModPlus\mapsrc\gabe_trainstation.vmf
+Patching WVT material: maps/gabe_trainstation/nature/red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1008 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\GabeModPlus\mapsrc\gabe_trainstation.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (819467 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4546 texinfos to 2582
+Reduced 668 texdatas to 593 (39831 bytes to 36676)
+Writing C:\GabeModPlus\mapsrc\gabe_trainstation.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\gabemodplus\mapsrc\gabe_trainstation.bsp
+reading c:\gabemodplus\mapsrc\gabe_trainstation.prt
+1205 portalclusters
+3763 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2318 visible clusters (0.00%)
+Total clusters visible: 372281
+Average clusters visible: 308
+Building PAS...
+Average clusters audible: 792
+visdatasize:260150  compressed from 366320
+writing c:\gabemodplus\mapsrc\gabe_trainstation.bsp
+2 minutes, 0 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\materials
+Loading C:\GabeModPlus\mapsrc\gabe_trainstation.vmf
+Patching WVT material: maps/gabe_trainstation/nature/red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1008 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\GabeModPlus\mapsrc\gabe_trainstation.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (819467 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4546 texinfos to 2582
+Reduced 668 texdatas to 593 (39831 bytes to 36676)
+Writing C:\GabeModPlus\mapsrc\gabe_trainstation.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\gabemodplus\mapsrc\gabe_trainstation.bsp
+reading c:\gabemodplus\mapsrc\gabe_trainstation.prt
+1205 portalclusters
+3763 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2318 visible clusters (0.00%)
+Total clusters visible: 372281
+Average clusters visible: 308
+Building PAS...
+Average clusters audible: 792
+visdatasize:260150  compressed from 366320
+writing c:\gabemodplus\mapsrc\gabe_trainstation.bsp
+1 minute, 55 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\materials
+Loading C:\GabeModPlus\mapsrc\gabe_trainstation.vmf
+Patching WVT material: maps/gabe_trainstation/nature/red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1008 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\GabeModPlus\mapsrc\gabe_trainstation.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (819467 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4546 texinfos to 2582
+Reduced 668 texdatas to 593 (39831 bytes to 36676)
+Writing C:\GabeModPlus\mapsrc\gabe_trainstation.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\gabemodplus\mapsrc\gabe_trainstation.bsp
+reading c:\gabemodplus\mapsrc\gabe_trainstation.prt
+1205 portalclusters
+3763 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2318 visible clusters (0.00%)
+Total clusters visible: 372281
+Average clusters visible: 308
+Building PAS...
+Average clusters audible: 792
+visdatasize:260150  compressed from 366320
+writing c:\gabemodplus\mapsrc\gabe_trainstation.bsp
+2 minutes, 7 seconds elapsed

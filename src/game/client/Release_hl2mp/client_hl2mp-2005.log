@@ -1,0 +1,19 @@
+﻿Build started 1/11/2026 3:22:45 PM.
+     1>Project "C:\GabeModPlus\src\game\client\client_hl2mp-2005.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\GabeModPlus\src\game\client\.\Release_hl2mp\Client HL2MP.dll) does not match the Linker's OutputFile property value (C:\GabeModPlus\src\game\client\Release_hl2mp\Client.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(Client HL2MP) does not match the Linker's OutputFile property value (Client). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         client_hl2mp-2005.vcxproj -> C:\GabeModPlus\src\game\client\.\Release_hl2mp\Client HL2MP.dll
+       CustomBuildStep:
+         if exist "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\client.dll" attrib -r "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\client.dll"
+         copy "C:\GabeModPlus\src\game\client\Release_hl2mp\"client.dll "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin"
+         if exist "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\client.pdb" attrib -r "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\client.pdb"
+         if exist "C:\GabeModPlus\src\game\client\Release_hl2mp\"client.pdb copy "C:\GabeModPlus\src\game\client\Release_hl2mp\"client.pdb "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\client.pdb"
+         
+         :VCEnd
+                 1 file(s) copied.
+     1>Done Building Project "C:\GabeModPlus\src\game\client\client_hl2mp-2005.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.27

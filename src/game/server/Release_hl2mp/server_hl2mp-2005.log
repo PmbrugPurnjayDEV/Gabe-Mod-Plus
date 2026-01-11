@@ -1,0 +1,19 @@
+﻿Build started 1/11/2026 3:22:45 PM.
+     1>Project "C:\GabeModPlus\src\game\server\server_hl2mp-2005.vcxproj" on node 3 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\GabeModPlus\src\game\server\.\Release_hl2mp\Server HL2MP.dll) does not match the Linker's OutputFile property value (C:\GabeModPlus\src\game\server\Release_hl2mp\Server.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(Server HL2MP) does not match the Linker's OutputFile property value (Server). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         server_hl2mp-2005.vcxproj -> C:\GabeModPlus\src\game\server\.\Release_hl2mp\Server HL2MP.dll
+       CustomBuildStep:
+         if exist "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\server.dll" attrib -r "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\server.dll"
+         if exist "C:\GabeModPlus\src\game\server\Release_hl2mp\"server.dll copy "C:\GabeModPlus\src\game\server\Release_hl2mp\"server.dll "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\server.dll"
+         if exist "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\server.pdb" attrib -r "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin\server.pdb"
+         if exist "C:\GabeModPlus\src\game\server\Release_hl2mp\"server.pdb copy "C:\GabeModPlus\src\game\server\Release_hl2mp\"server.pdb "D:\Program Files (x86)\Steam\steamapps\SourceMods\gabemodplus\bin"
+         
+         :VCEnd
+                 1 file(s) copied.
+     1>Done Building Project "C:\GabeModPlus\src\game\server\server_hl2mp-2005.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.28
